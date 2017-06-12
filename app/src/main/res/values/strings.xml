@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">UdacityTGA</string>
+    <string name="title_activity_vilnius">VilniusActivity</string>
+
+    <string name="city_name_a">Vilnius</string>
+    <string name="city_name_b">Kaunas</string>
+    <string name="city_name_c">Klaipeda</string>
+    <string name="city_name_d">Nida</string>
+
+    <string name="city_description_a"> Vilnius, Lithuania’s capital, is known for its baroque
+        architecture, seen especially in its medieval Old Town. But the buildings lining this
+        district’s partially cobblestoned streets reflect diverse styles and eras</string>
+    <string name="city_description_b">Kaunas is the second-largest city in Lithuania and has
+        historically been a leading centre of Lithuanian economic, academic, and cultural
+        life.</string>
+    <string name="city_description_c">Klaipėda English pronunciation: /klaɪpeɪdə is a city in
+        Lithuania on the Baltic Sea coast. It is the third largest city in Lithuania</string>
+    <string name="city_description_d">Nida (German: Nidden) is a resort town in Lithuania, the
+        administrative centre of Neringa municipality. Located on the Curonian Spit between the
+        Curonian</string>
+
+    <string name="transition_cover" translatable="false">transitionCover</string>
+
+    <string name="vilnius_to_do_one_name">Vilnius Old Town</string>
+    <string name="vilnius_to_do_two_name">St. Anne Church</string>
+    <string name="vilnius_to_do_three_name">KGB Museum</string>
+
+    <string name="kaunas_to_do_one_name">Old Town Kaunas</string>
+    <string name="kaunas_to_do_two_name">Kaunas Castle</string>
+    <string name="kaunas_to_do_three_name">Kaunas Botanical Garden</string>
+    <string name="kaunas_to_do_four_name">Kaunas Seventh fort</string>
+    <string name="kaunas_to_do_five_name">Kaunas Town Hall</string>
+
+    <string name="klaipeda_to_do_one_name">Klaipeda Old City</string>
+    <string name="klaipeda_to_do_two_name">Dino Parkas Radailiai</string>
+    <string name="klaipeda_to_do_three_name">Svyturys Brewery</string>
+
+    <string name="nida_to_do_one_name">Nida Dunes</string>
+    <string name="nida_to_do_two_name">Nida Beach</string>
+    <string name="nida_to_do_three_name">Promedane of Nida</string>
+
+    <string name="vilnius_to_do_one">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+</string>
+    <string name="vilnius_to_do_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+</string>
+    <string name="vilnius_to_do_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+</string>
+
+    <string name="kaunas_to_do_one">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+</string>
+    <string name="kaunas_to_do_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+</string>
+    <string name="kaunas_to_do_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+</string>
+    <string name="kaunas_to_do_four">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+</string>
+    <string name="kaunas_to_do_five">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+</string>
+
+    <string name="klaipeda_to_do_one">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+
+</string>
+    <string name="klaipeda_to_do_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+
+</string>
+    <string name="klaipeda_to_do_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+
+</string>
+
+    <string name="nida_to_do_one">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+</string>
+    <string name="nida_to_do_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+</string>
+    <string name="nida_to_do_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc convallis, lacus sit amet vehicula hendrerit, diam diam iaculis magna, quis vulputate dui lorem nec lorem. In et velit non turpis porta tempus eu eu ipsum. Praesent vestibulum vehicula ipsum, ut rutrum velit aliquet et. Nullam mattis tortor felis. Pellentesque facilisis sapien sed mi ultrices, in dapibus nulla aliquet. Fusce facilisis ex eu pretium aliquet. Maecenas non eros id sapien consequat laoreet et nec augue. Aliquam erat volutpat. Nunc mollis urna et viverra iaculis. Aenean ut elementum elit. Proin ex odio, lobortis nec justo suscipit, faucibus consectetur turpis. Nunc quis ex in velit interdum sodales. In non feugiat quam, at viverra purus.
+
+Pellentesque facilisis egestas nisi eget porttitor. Pellentesque auctor risus non ligula varius, ac luctus nulla consequat. In nec sollicitudin eros, sed mattis urna. Proin congue augue id urna interdum vestibulum. Proin semper semper sapien, sed varius ipsum viverra quis. Sed ut scelerisque erat. Nulla facilisi. Suspendisse vitae felis ex. Morbi eu egestas eros. Morbi porttitor eros eget nisi imperdiet congue.
+
+In dapibus semper tellus, nec gravida odio ullamcorper ac. Nunc bibendum viverra erat, eu auctor leo scelerisque sed. Nunc neque libero, dapibus vel nunc in, varius gravida nunc. Donec scelerisque et nisl a malesuada. Nulla eu ex luctus, egestas arcu eget, elementum enim. Maecenas quis nisi sed nisi viverra mollis. Cras ornare cursus mauris, sed pellentesque nunc tincidunt id. Suspendisse in diam risus. Duis congue commodo tellus, eget consectetur est maximus nec. Quisque ac dictum turpis. Nullam vitae porta nulla.
+</string>
+
+
+</resources>
